@@ -13,3 +13,6 @@ hdbcli for python needs to be installed/available
 Proper hdbuserstore entry needs to be set up.
 
 Basic configuration of the script needs to be done (first 10 lines of the script).
+
+## Usage example
+&lt;TBD&gt;
