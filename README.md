@@ -7,7 +7,7 @@ It is **not** based on m_configuration_changes. It actually compares configurati
 
 The connection needs to be maintained to SystemDB, not tenant.
 
-## requirements
+## Requirements
 hdbcli for python needs to be installed/available
 
 Proper hdbuserstore entry needs to be set up.
