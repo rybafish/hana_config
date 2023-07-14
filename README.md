@@ -16,7 +16,5 @@ Proper hdbuserstore entry needs to be set up:
 
 This &lt;hdbstoreid&gt; needs to be put into the script hana_user_key variable.
 
-Basic configuration of the script needs to be done (first 10 lines of the script).
-
 ## Usage example
 &lt;TBD&gt;
