@@ -1,3 +1,8 @@
+# SAP HANA configuration checker/tracker
+#
+# Copyright 2023-2025 RybaFish tech
+# https://www.rybafish.net/
+
 import sys
 import argparse
 
