@@ -14,6 +14,9 @@ Proper hdbuserstore entry needs to be set up:
 
 ```hdbuserstore set <hdbstoreid> <hana_host>:<system_db_port> <user> <password>```
 
+or more secure way (to enter password in prompt):
+```hdbuserstore -i set <hdbstoreid> <hana_host>:<system_db_port> <user>```
+
 This &lt;hdbstoreid&gt; needs to be put into the script hana_user_key variable.
 
 ## Usage example
